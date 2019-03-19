@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+storage/*.key
+.env.*.php
+.env.php
+.env
+
+# End of https://www.gitignore.io/api/laravel
+/nbproject/private/
